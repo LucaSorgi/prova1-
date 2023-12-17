@@ -1,0 +1,21 @@
+article header{
+    position: sticky;
+    top:5px;
+    background-color: brown;
+    color: aliceblue;
+}
+img{
+    height: 90px;
+    width: 140px;
+}
+a{
+    position: fixed;
+    bottom:10px;
+    right: 10px;
+    border: 1px solid rgb(127, 255, 136);
+    border-radius: 50%;
+    background-color: rgb(127, 255, 136);
+}
+a:hover{
+    transform: scale(2);
+}
